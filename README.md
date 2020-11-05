@@ -26,4 +26,5 @@ This directory contains the files for the above listed webpages:
 - visualization pages `cloudiness.html`, `humidity.html`, `temp.html` , and `windspeed.html` 
 - comparison's page `comparison.html`
 - data page `data.html` along with python code `data.py`
-- Resources folder containing an `images` directory and raw data `cities.csv`
+- stylesheet `style.css` for the web pages listed above
+- `Resources` folder containing an `images` directory and raw data `cities.csv`
